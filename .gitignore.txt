@@ -1,1 +1,6 @@
-/Bert.txt
+**/bartosz_derylo_npg/Bert.txt
+log
+build
+*.pdf
+*.temp
+*.log
