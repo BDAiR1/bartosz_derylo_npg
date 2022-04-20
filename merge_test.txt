@@ -1,1 +1,3 @@
-Jestem w branch-u npg_test
+Jestem w 
+branch-u npg_test
+Niespdziewna zmiana!
